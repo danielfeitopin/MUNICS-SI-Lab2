@@ -1,0 +1,6 @@
+src/id_rsa
+src/id_rsa.pub
+src/Pipfile.lock
+src/tor/config.py
+src/tor/pubkeys.py
+*__pycache__

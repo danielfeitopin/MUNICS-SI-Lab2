@@ -1,0 +1,9 @@
+# MQTT Conexion Configuration
+MQTT_USER_NAME = # TODO
+MQTT_PASSWORD = # TODO
+MQTT_IP = # TODO
+MQTT_PORT = # TODO
+MQTT_KEEPALIVE = # TODO
+
+ID_ALICE = # TODO MQTT topic for Alice
+ID_BOB = # TODO MQTT topic for Bob
